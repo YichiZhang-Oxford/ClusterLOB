@@ -1,0 +1,12 @@
+,$OFI^{S}(\phi_{3})$,$OFI^{S}(\phi_{*})$,$OFI^{C}(\phi_{*})$
+E[Return],0.016,0.076,-0.065
+Volatility,0.15,0.15,0.15
+Downside deviation,0.181,0.17,0.155
+Maximum drawdown,-0.073,-0.072,-0.108
+Sortino ratio,0.087,0.444,-0.42
+Calmar ratio,0.215,1.049,-0.601
+Hit rate,0.595,0.586,0.534
+Avg. profit / avg. loss,0.698,0.786,0.799
+PnL per trade,0.052,0.25,-0.214
+Sharpe ratio,0.105,0.503,-0.432
+P-value,0.944,0.749,0.761
