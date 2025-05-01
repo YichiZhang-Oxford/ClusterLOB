@@ -21,7 +21,7 @@ Table 1: Summary of 15 stocks categorized by tick size along with their sector a
 
 ## Empirical Results
 
-Table 2 and 3 report the performance metrics for FRNB and FREB across all events, separated by small-tick, medium-tick, and large-tick stocks in the test dataset. For each tick-size group, we compare OFIs derived from **ClusterLOB** against benchmark models without clustering. Empirical results demonstrate that signals derived from clusters consistently outperform benchmark models without clustering in all event types, especially in terms of SR and other risk-adjusted metrics. 
+Table 2 and 3 report the performance metrics for *FRNB* and *FREB* across all events, separated by small-tick, medium-tick, and large-tick stocks in the test dataset. For each tick-size group, we compare OFIs derived from **ClusterLOB** against benchmark models without clustering. Empirical results demonstrate that signals derived from clusters consistently outperform benchmark models without clustering in all event types, especially in terms of SR and other risk-adjusted metrics. 
 
 Table 2: Performance metric results for *FRNB* across all events for small-tick, medium-tick, and large-tick stocks in the test dataset. The highest SR within each tick-size group is highlighted.
 
