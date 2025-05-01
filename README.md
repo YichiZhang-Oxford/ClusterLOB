@@ -6,7 +6,7 @@ We introduce **ClusterLOB**, a methodology designed to enhance trading performan
 ](https://arxiv.org/abs/2504.20349).**
 
 ## Citation
-Please cite our paper if you find the repo helpful in your work.
+If you find this repository helpful in your work, please cite our paper.
 ```bibTex
 @misc{zhang2025clusterlobenhancingtradingstrategies,
       title={ClusterLOB: Enhancing Trading Strategies by Clustering Orders in Limit Order Books}, 
