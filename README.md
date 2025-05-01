@@ -5,6 +5,10 @@ We introduce **ClusterLOB**, a methodology designed to enhance trading performan
 **Paper: [ClusterLOB: Enhancing Trading Strategies by Clustering Orders in Limit Order Books
 ](https://arxiv.org/abs/2504.20349).**
 
+<div align="center">
+  <img src="polts/ClusterLOB" alt="PDF Preview" width="100%" />
+</div>
+
 ## Citation
 If you find this repository helpful in your work, please cite our paper.
 ```bibTex
