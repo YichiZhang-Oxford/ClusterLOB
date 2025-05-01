@@ -5,9 +5,11 @@ We introduce **ClusterLOB**, a methodology designed to enhance trading performan
 **Paper: [ClusterLOB: Enhancing Trading Strategies by Clustering Orders in Limit Order Books
 ](https://arxiv.org/abs/2504.20349).**
 
-<div align="center">
-  <img src="polts/ClusterLOB" alt="PDF Preview" width="100%" />
-</div>
+## Data
+
+We gather our data through [LOBSTER](https://lobsterdata.com/) by Huang et al. (2011), which uses ITCH data from NASDAQ to reproduce the LOB for any stock on NASDAQ to any specified level.
+
+Table: Summary of 15 stocks categorized by tick size along with their sector and market capitalization.
 
 ## Citation
 If you find this repository helpful in your work, please cite our paper.
